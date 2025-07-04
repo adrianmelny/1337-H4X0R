@@ -1,6 +1,6 @@
 # 1337-H4X0R
 
-[https://github.com/adrianmelny/1337-H4X0R.git](https://adrianmelny.github.io/1337-H4X0R/)
+[https://github.com/adrianmelny/1337-H4X0R](https://adrianmelny.github.io/1337-H4X0R/)
 
 🔍 Descripción
 Este proyecto convierte texto normal en "1337 H4X0R" (leet speak) en tiempo real, simulando la estética de las interfaces de hackers de los años 90.
