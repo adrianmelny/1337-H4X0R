@@ -5,10 +5,15 @@ Este proyecto convierte texto normal en "1337 H4X0R" (leet speak) en tiempo real
 
 Características principales:
 ✅ Conversión en tiempo real (mientras escribes).
+
 ✅ Estilo retro hacker con fondo de matriz, texto verde y efectos visuales.
+
 ✅ Símbolos aleatorios para darle un toque más "hacker".
+
 ✅ Efectos de sonido al teclear (simulando un teclado antiguo).
+
 ✅ Botón para copiar el resultado al portapapeles.
+
 ✅ Diseño responsive (funciona en móviles y escritorio).
 
 🚀 Cómo usarlo
